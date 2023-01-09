@@ -1,0 +1,7 @@
+example cases:
+
+./main -r [year]
+
+./main -y [year]
+
+./main -e entry [-y year]
